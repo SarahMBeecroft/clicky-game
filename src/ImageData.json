@@ -2,73 +2,73 @@
   {
     "id": 1,
     "name": "Billy",
-    "image": "billy.jpg",
+    "image": "./images/billy.jpg",
     "clicked": false
   },
   {
     "id": 2,
     "name": "Dustin",
-    "image": "dustin.jpg",
+    "image": "./images/dustin.jpg",
     "clicked": false
   },
   {
     "id": 3,
     "name": "Eleven",
-    "image": "eleven.jpg",
+    "image": "./images/eleven.jpg",
     "clicked": false
   },
   {
     "id": 4,
     "name": "Hopper",
-    "image": "hopper.jpg",
+    "image": "./images/hopper.jpg",
     "clicked": false
   },
   {
     "id": 5,
     "name": "Jonathan",
-    "image": "jonathan.jpg",
+    "image": "./images/jonathan.jpg",
     "clicked": false
   },
   {
     "id": 6,
     "name": "Joyce",
-    "image": "joyce.jpg",
+    "image": "./images/joyce.jpg",
     "clicked": false
   },
   {
     "id": 7,
     "name": "Lucas",
-    "image": "lucas.jpg",
+    "image": "./images/lucas.jpg",
     "clicked": false
   },
   {
     "id": 8,
     "name": "Max",
-    "image": "max.jpg",
+    "image": "./images/max.jpg",
     "clicked": false
   },
   {
     "id": 9,
     "name": "Mike",
-    "image": "mike.jpg",
+    "image": "./images/mike.jpg",
     "clicked": false
   },
   {
     "id": 10,
     "name": "Nancy",
-    "image": "nancy.jpg",
+    "image": "./images/nancy.jpg",
     "clicked": false
   },
   {
     "id": 11,
     "name": "Steve",
-    "image": "steve.jpg",
+    "image": "./images/steve.jpg",
     "clicked": false
   },
   {
     "id": 12,
     "name": "Will",
-    "image": "will.jpg",
+    "image": "./images/will.jpg",
     "clicked": false
   }
 ]
