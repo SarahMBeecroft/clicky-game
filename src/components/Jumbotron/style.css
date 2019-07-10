@@ -6,7 +6,7 @@
 h1 {
   background: black;
   color: black !important;
-  text-shadow: -1px 0 rgb(148, 28, 28), 0 1px rgb(148, 28, 28), 1px 0 rgb(148, 28, 28), 0 -1px rgb(148, 28, 28);
+  text-shadow: -2px 0 rgb(148, 28, 28), 0 2px rgb(148, 28, 28), 2px 0 rgb(148, 28, 28), 0 -2px rgb(148, 28, 28);
   font-size: 70px !important;
   font-weight: bold;
   width: 100%;

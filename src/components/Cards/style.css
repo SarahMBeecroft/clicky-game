@@ -8,3 +8,9 @@ img {
   align-content: center;
   border: 2px solid rgb(148, 28, 28);
 }
+
+img:hover {
+  border: 2px dotted rgb(148, 28, 28);
+	color: rgb(148, 28, 28);
+}
+
