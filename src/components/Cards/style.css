@@ -1,6 +1,10 @@
 .card {
   height: 200px;
   width: 200px;
-  border: darkgray;
   background: white;
+}
+
+img {
+  align-content: center;
+  border: 2px solid rgb(148, 28, 28);
 }

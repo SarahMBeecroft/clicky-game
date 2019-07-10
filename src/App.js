@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Wrapper from './components/Wrapper';
-import Navbar from './components/Navbar';
 import Jumbotron from './components/Jumbotron';
 import Cards from './components/Cards';
 import Friends from "./ImageData.json";
@@ -63,9 +62,8 @@ class App extends React.Component {
 render() {
   return (
     <Wrapper>
-      <Navbar />
       <Jumbotron />
-    <h2>Score: {this.state.score}  | High Score: {this.state.highScore} </h2> 
+    <h2 className='score'>SCORE: {this.state.score}  | HIGH SCORE: {this.state.highScore} </h2> 
       <div className= 'grid-container'>
       {this.state.Friends.map(Friend =>(<Cards
         id={Friend.id}
