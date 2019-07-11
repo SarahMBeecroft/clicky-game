@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SarahMBeecroft/clicky-game/static/css/main.6905ce2a.chunk.css",
+    "main.js": "/SarahMBeecroft/clicky-game/static/js/main.dfcb38b2.chunk.js",
+    "main.js.map": "/SarahMBeecroft/clicky-game/static/js/main.dfcb38b2.chunk.js.map",
+    "runtime~main.js": "/SarahMBeecroft/clicky-game/static/js/runtime~main.6f8038ef.js",
+    "runtime~main.js.map": "/SarahMBeecroft/clicky-game/static/js/runtime~main.6f8038ef.js.map",
+    "static/js/2.884c28c3.chunk.js": "/SarahMBeecroft/clicky-game/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/SarahMBeecroft/clicky-game/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/SarahMBeecroft/clicky-game/index.html",
+    "precache-manifest.455102459482e240e0c79af0d8f3944e.js": "/SarahMBeecroft/clicky-game/precache-manifest.455102459482e240e0c79af0d8f3944e.js",
+    "service-worker.js": "/SarahMBeecroft/clicky-game/service-worker.js",
+    "static/css/main.6905ce2a.chunk.css.map": "/SarahMBeecroft/clicky-game/static/css/main.6905ce2a.chunk.css.map"
+  }
+}
